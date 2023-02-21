@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - This program prints a-z
  *
  * Return: Always 0 (Success)
  */
