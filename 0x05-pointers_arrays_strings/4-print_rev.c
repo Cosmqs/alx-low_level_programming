@@ -3,7 +3,7 @@
 /**
  * print_rev - check the code
  * @s: parameter
- * 
+ *
  * Return: Always 0.
  */
 
