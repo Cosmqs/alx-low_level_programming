@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
 
 /**
  * main - entry point
@@ -11,5 +10,5 @@
 int main(void)
 {
 	printf("%s\n", __FILE__);
-	exit (EXIT_SUCCESS);
+	exit(EXIT_SUCCESS);
 }
