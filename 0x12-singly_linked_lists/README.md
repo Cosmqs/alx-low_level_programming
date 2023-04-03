@@ -24,3 +24,5 @@ You are allowed to use strdup
 5. Write a function that frees a list_t list.
 
 Prototype: void free_list(list_t *head);
+I love software engineering
+
