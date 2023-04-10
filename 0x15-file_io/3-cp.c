@@ -32,7 +32,10 @@ char *create_buffer(char *file)
 /**
  * close_file - close file descriptors
  * @fd: The file descriptor to be closed
+ *
+ * Return: nothing
  */
+
 void close_file(int fd)
 {
 	int c;
