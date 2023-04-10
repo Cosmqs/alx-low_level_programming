@@ -6,8 +6,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
-char *create_buffer(char *file);
-void close_file(int fd);
 
 /**
  * create_buffer - allocate 1024 bytes
